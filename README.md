@@ -29,6 +29,8 @@
                     <p>Поговоримо про новинки</p>
                     <a class="article-but" href="">Детальніше</a>
                 </article>
+                </section>
+                <section class="info">
                 <article>
                     <h2>Телефон мрії</h2>
                     <img src="/uploads/2021/02/mobile-phone-1875813_1920_0_1613586011.jpg" width="400px" height="300px"/>
